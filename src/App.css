@@ -2,9 +2,9 @@
 
 
 .download-btn {
-  position: absolute;
+  position: fixed;
   top: 20px;
-  right: 20px;
+  right: 50px;
   background-color: #007bff;
   color: white;
   text-decoration: none;
