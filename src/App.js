@@ -10,11 +10,11 @@ function App() {
         <img src={profilePic} alt="Pradeep" className="profile-pic" />
         <h1>Erukulla Pradeep</h1>
         <p>Frontend Developer</p>
-     <div className="container">
+  
       <a href="/resume.pdf" download className="download-btn">
         📄 Download Resume
       </a>
-   </div>
+   
       </header>
 
       <section className="section">
