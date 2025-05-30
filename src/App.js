@@ -1,4 +1,4 @@
-// src/App.js
+ // src/App.js
 import React from 'react';
 import './App.css';
 import profilePic from './profile.jpg'; // Make sure to add your image in the public or src folder
