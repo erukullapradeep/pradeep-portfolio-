@@ -14,6 +14,7 @@ function App() {
       <a href="/resume.pdf" download className="download-btn">
         📄 Download Resume
       </a>
+   </div>
       </header>
 
       <section className="section">
