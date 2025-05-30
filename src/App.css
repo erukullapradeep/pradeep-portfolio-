@@ -1,25 +1,24 @@
 /* src/App.css */
-.container {
-  text-align: center;
-  padding: 60px;
-}
-
 
 
 .download-btn {
-  display: inline-block;
-  padding: 12px 24px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
   background-color: #007bff;
   color: white;
   text-decoration: none;
-  font-size: 16px;
-  border-radius: 8px;
+  padding: 10px 20px;
+  border-radius: 6px;
+  font-size: 14px;
   transition: background-color 0.3s ease;
+  z-index: 1000;
 }
 
 .download-btn:hover {
-  background-color: #ffffff;
+  background-color: #0056b3;
 }
+
 
 body {
   margin: 0;
