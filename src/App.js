@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import profilePic from './profile.jpg';
+import './index.css';
 
 function App() {
   return (
