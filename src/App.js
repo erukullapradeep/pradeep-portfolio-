@@ -31,16 +31,16 @@ function App() {
           </p>
         </section>
 
-        // <section className="section">
-        //   <h2 className="text-2xl font-semibold mb-2">Work Experience</h2>
-        //   <h3 className="font-bold">Associate Software Engineer (Intern) - Ronex Technologies, Karimnagar (1 year)</h3>
-        //   <ul className="list-disc list-inside ml-4">
-        //     <li>Developed and maintained responsive web pages.</li>
-        //     <li>Fixed bugs and optimized website performance.</li>
-        //     <li>Collaborated with backend developers for API integration.</li>
-        //     <li>Ensured cross-browser compatibility and responsiveness.</li>
-        //   </ul>
-        // </section>
+  {/*   <section className="section">
+          <h2 className="text-2xl font-semibold mb-2">Work Experience</h2>
+          <h3 className="font-bold">Associate Software Engineer (Intern) - Ronex Technologies, Karimnagar (1 year)</h3>
+          <ul className="list-disc list-inside ml-4">
+            <li>Developed and maintained responsive web pages.</li>
+            <li>Fixed bugs and optimized website performance.</li>
+            <li>Collaborated with backend developers for API integration.</li>
+            <li>Ensured cross-browser compatibility and responsiveness.</li>
+          </ul>
+        </section>*/}
 
         <section className="section">
           <h2 className="text-2xl font-semibold mb-2">Education</h2>
